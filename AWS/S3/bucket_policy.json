@@ -6,7 +6,7 @@
             "Effect": "Allow",
             "Principal": "*",
             "Action": "s3:GetObject",
-            "Resource": "arn:aws:s3:::demolabs/*"
+            "Resource": "arn:aws:s3:::demo-bucket111/*"
         }
     ]
 }
